@@ -9,7 +9,7 @@ jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
-      - uses: tgymnich/fork-sync@v2.0
+      - uses: tgymnich/fork-sync@v2.0.10
         with:
           owner: Predidit # 上游仓库的拥有者
           repo: KazumiRules       # 上游仓库的名称
