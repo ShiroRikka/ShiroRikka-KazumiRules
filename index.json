@@ -48,6 +48,14 @@
     "lastUpdate": 1770015775000
   },
   {
+    "name": "ezdmw",
+    "version": "1.2",
+    "useNativePlayer": true,
+    "antiCrawlerEnabled": false,
+    "author": "",
+    "lastUpdate": 1786883419000
+  },
+  {
     "name": "fcdm",
     "version": "1.0",
     "useNativePlayer": true,
